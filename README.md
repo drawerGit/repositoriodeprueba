@@ -1,2 +1,2 @@
 # repositoriodeprueba
-repositorio de prueba para experimentar
+Está aqui el repositorio de prueba para experimentar
